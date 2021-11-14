@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Assets",
+        "content": [
+            {
+                "name": "Current Assets",
+                "content": [
+                    {
+                        "name": "Inventory Asset",
+                        "value": "49.95",
+                        "content": []
+                    },
+                    {
+                        "name": "Cash and cash equivalents",
+                        "content": [
+                            {
+                                "name": "Cash on hand",
+                                "value": "100.00",
+                                "content": []
+                            },
+                            {
+                                "name": "Total Cash and cash equivalents",
+                                "value": "100.00",
+                                "content": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Trade and other receivables",
+                        "content": [
+                            {
+                                "name": "Trade and other receivables",
+                                "value": "120.00",
+                                "content": []
+                            },
+                            {
+                                "name": "Total Trade and other receivables",
+                                "value": "120.00",
+                                "content": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Total Current Assets",
+                        "value": "269.95",
+                        "content": []
+                    }
+                ]
+            },
+            {
+                "name": "Total Assets",
+                "value": "269.95",
+                "content": []
+            }
+        ]
+    }
+]

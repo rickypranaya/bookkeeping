@@ -1,0 +1,25 @@
+[
+    {
+        "date":"14/05/2021",
+        "invoice":"1001",
+        "customer":"Company Pte.Ltd",
+        "amount":"$200.00",
+        "open_balance":"$100.00",
+        "status":"Partially paid"
+    },{
+        "date":"14/05/2021",
+        "invoice":"1002",
+        "customer":"ABC Company",
+        "amount":"$3500.00",
+        "open_balance":"$3500.00",
+        "status":"Overdue"
+    },{
+        "date":"14/05/2021",
+        "invoice":"1003",
+        "customer":"Company Pte.Ltd",
+        "amount":"$200.00",
+        "open_balance":"$100.00",
+        "status":"Partially paid"
+    }
+   
+]

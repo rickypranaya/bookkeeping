@@ -1,0 +1,26 @@
+[
+    {
+        "name":"Opening Balance Equity",
+        "type":"Equity",
+        "detail":"Opening Balance Equity",
+        "balance":"100.00"
+    },
+    {
+        "name":"Sales",
+        "type":"Revenue",
+        "detail":"Sales of product revenue",
+        "balance":"1,421.00"
+    },
+    {
+        "name":"Cash on hand",
+        "type":"Cash and Cash Equivalent",
+        "detail":"Cash on hand",
+        "balance":"12,241.21"
+    },
+    {
+        "name":"Inventory assests",
+        "type":"Current assets",
+        "detail":"Inventory",
+        "balance":"12,000.00"
+    }
+]

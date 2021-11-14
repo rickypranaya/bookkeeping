@@ -1,0 +1,25 @@
+[
+    {
+        "name":"Company Pte.Ltd",
+        "phone":"8888 9999",
+        "email":"company@example.com",
+        "address":"221 pending rd, 670221",
+        "open_balance":"$3,300.00"
+    },
+    {
+        "name":"John Doe",
+        "phone":"1234 5678",
+        "email":"john@example.com",
+        "address":"822 flower rd, 639923",
+        "open_balance":"$0.00"
+    },
+    {
+        "name":"ABC company",
+        "phone":"8347 2343",
+        "email":"ABC@company.com",
+        "address":"7th avenue burger rd, SIngapore",
+        "open_balance":"$1,200.00"
+    }
+
+
+]

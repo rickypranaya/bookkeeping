@@ -1,0 +1,12 @@
+[
+    {
+        "photo":"picture",
+        "name":"Computer ABC",
+        "type":"Inventory",
+        "sku":"12321",
+        "description":"One set computer with GPU",
+        "quantity":"123",
+        "cost":"$3,320.00"
+    }
+   
+]

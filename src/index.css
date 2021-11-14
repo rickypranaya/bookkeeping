@@ -1,0 +1,36 @@
+/* Global CSS */
+:root {
+    --color-1: #2d71fb;
+    --color-2: #4c87ff;
+    --color-3: #dbe7ff;
+    --color-text-1: #333333;
+    --color-text-2: #616161;
+    --color-text-3: #979797;
+    --color-text-4: #dadada;
+    --font-1: Arial;
+    
+    font-family: var(--font-1);
+}
+
+body {
+    margin: 0;
+    background-color: white;
+}
+
+
+/* Drawer + right contents(header + page) */
+.container {
+    display: flex;
+    min-height: 100%;
+    max-height: 100vh;
+    overflow: hidden;
+}
+
+
+/* Header + page */
+.container-right {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}

@@ -1,0 +1,42 @@
+
+
+.page {
+    /* padding: 30px; */
+    overflow: auto;
+    /* background-color: lightgrey; */
+
+}
+
+.page-2 {
+    padding: 30px;
+    overflow: auto;
+    flex: 1;
+    background-color: #f5f6f7;
+}
+
+.page-3 {
+    padding: 30px;
+    overflow: auto;
+    flex: 1;
+    background-color: white;
+}
+
+
+.page-top {
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.page-top-left, .page-top-right {
+    display: flex;
+    align-items :flex-end;
+}
+
+.Page-body{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.page-top-left > * { margin-right: 20px; }
+.page-top-right > * { margin-left: 20px; }

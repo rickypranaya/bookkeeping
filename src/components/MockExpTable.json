@@ -1,0 +1,35 @@
+[
+    {
+        "date":"14/05/2021",
+        "type":"invoice",
+        "payee":"Company Pte.Ltd",
+        "total":"$100.00",
+        "open_balance":"$100.00",
+        "status":"Partially paid"
+    },
+    {
+        "date":"14/05/2021",
+        "type":"Expense",
+        "payee":"Company Pte.Ltd",
+        "total":"$100.00",
+        "open_balance":"$100.00",
+        "status":"Overdue"
+    },
+    {
+        "date":"14/05/2021",
+        "type":"invoice",
+        "payee":"Company Pte.Ltd",
+        "total":"$100.00",
+        "open_balance":"$100.00",
+        "status":"Partially paid"
+    },
+    {
+        "date":"14/05/2021",
+        "type":"invoice",
+        "payee":"Company Pte.Ltd",
+        "total":"$100.00",
+        "open_balance":"$100.00",
+        "status":"Paid"
+    }
+   
+]
