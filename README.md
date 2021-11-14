@@ -1,3 +1,4 @@
 # bookkeeping desktop app
 - clone repository
-- run npm start
+- npm install
+- npm start
