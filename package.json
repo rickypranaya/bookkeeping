@@ -1,0 +1,44 @@
+{
+  "name": "Bookkeeping",
+  "version": "0.1.0",
+  "author": "Ricky",
+  "description": "Bookkeeping software",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "watch": "webpack --config webpack.common.js --watch"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.14.7",
+    "@babel/preset-react": "^7.14.5",
+    "babel-loader": "^8.2.2",
+    "css-loader": "^5.2.6",
+    "electron": "^12.0.6",
+    "electron-reload": "^1.5.0",
+    "file-loader": "^6.2.0",
+    "style-loader": "^2.0.0",
+    "webpack": "^5.40.0",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {
+    "ajv": "^6.12.6",
+    "bootstrap": "^5.0.2",
+    "Buffer": "^0.0.0",
+    "chart.js": "^3.5.1",
+    "FileReader": "^0.10.2",
+    "jspdf": "^2.3.1",
+    "nedb-promises": "^5.0.0",
+    "react": "^17.0.2",
+    "react-bootstrap": "^2.0.0-beta.4",
+    "react-chartjs-2": "^3.0.4",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.2.0",
+    "react-modal": "^3.14.3",
+    "react-router-dom": "^5.2.0",
+    "react-select": "^4.3.1",
+    "react-table": "^7.7.0",
+    "reactstrap": "^8.9.0",
+    "remote": "^0.2.6"
+  }
+}
